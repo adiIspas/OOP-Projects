@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1430379002 source:c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Clasa_Piesa.h"
+	"Clasa_Rege.h"
+	"Clasa_Regina.h"
+	"Clasa_Turn.h"
+	"Clasa_Nebun.h"
+	"Clasa_Cal.h"
+	"Clasa_Pion.h"
+	"Clasa_Tabla.h"
+
+1430321001 c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\clasa_piesa.h
+	<cstring>
+	<iostream>
+
+1430378851 c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\clasa_rege.h
+	<cstring>
+	<cmath>
+
+1429627516 c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\clasa_regina.h
+	<cstring>
+
+1430321143 c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\clasa_turn.h
+	<cstring>
+
+1429626190 c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\clasa_nebun.h
+	<cmath>
+	<cstring>
+
+1429626201 c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\clasa_cal.h
+	<cstring>
+	<cmath>
+
+1430059079 c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\clasa_pion.h
+	<cmath>
+	<cstring>
+
+1430424966 c:\users\noi 25\desktop\joc de sah - joi 30.04.2015 - copy\clasa_tabla.h
+	<iostream>
+
+1430379002 source:c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Clasa_Piesa.h"
+	"Clasa_Rege.h"
+	"Clasa_Regina.h"
+	"Clasa_Turn.h"
+	"Clasa_Nebun.h"
+	"Clasa_Cal.h"
+	"Clasa_Pion.h"
+	"Clasa_Tabla.h"
+
+1430321001 c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\clasa_piesa.h
+	<cstring>
+	<iostream>
+
+1430378851 c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\clasa_rege.h
+	<cstring>
+	<cmath>
+
+1429627516 c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\clasa_regina.h
+	<cstring>
+
+1430321143 c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\clasa_turn.h
+	<cstring>
+
+1429626190 c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\clasa_nebun.h
+	<cmath>
+	<cstring>
+
+1429626201 c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\clasa_cal.h
+	<cstring>
+	<cmath>
+
+1430559414 c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\clasa_pion.h
+	<cmath>
+	<cstring>
+
+1430567883 c:\users\noi 25\desktop\joc de sah - vineri 2.04.2015\clasa_tabla.h
+	<iostream>
+
+1430379002 source:c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Clasa_Piesa.h"
+	"Clasa_Rege.h"
+	"Clasa_Regina.h"
+	"Clasa_Turn.h"
+	"Clasa_Nebun.h"
+	"Clasa_Cal.h"
+	"Clasa_Pion.h"
+	"Clasa_Tabla.h"
+
+1430321001 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\clasa_piesa.h
+	<cstring>
+	<iostream>
+
+1430378851 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\clasa_rege.h
+	<cstring>
+	<cmath>
+
+1429627516 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\clasa_regina.h
+	<cstring>
+
+1430321143 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\clasa_turn.h
+	<cstring>
+
+1429626190 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\clasa_nebun.h
+	<cmath>
+	<cstring>
+
+1429626201 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\clasa_cal.h
+	<cstring>
+	<cmath>
+
+1430559414 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\clasa_pion.h
+	<cmath>
+	<cstring>
+
+1430571576 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 1\clasa_tabla.h
+	<iostream>
+
+1430588147 source:c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Clasa_Piesa.h"
+	"Clasa_Rege.h"
+	"Clasa_Regina.h"
+	"Clasa_Turn.h"
+	"Clasa_Nebun.h"
+	"Clasa_Cal.h"
+	"Clasa_Pion.h"
+	"Clasa_Tabla.h"
+
+1430321001 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\clasa_piesa.h
+	<cstring>
+	<iostream>
+
+1430378851 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\clasa_rege.h
+	<cstring>
+	<cmath>
+
+1429627516 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\clasa_regina.h
+	<cstring>
+
+1430321143 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\clasa_turn.h
+	<cstring>
+
+1429626190 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\clasa_nebun.h
+	<cmath>
+	<cstring>
+
+1429626201 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\clasa_cal.h
+	<cstring>
+	<cmath>
+
+1430559414 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\clasa_pion.h
+	<cmath>
+	<cstring>
+
+1430593576 c:\users\noi 25\desktop\joc de sah - sambata 2.04.2015 - final 11\clasa_tabla.h
+	<iostream>
+
+1430584547 source:g:\teme laborator\poo\proiect ii\joc de sah\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Clasa_Piesa.h"
+	"Clasa_Rege.h"
+	"Clasa_Regina.h"
+	"Clasa_Turn.h"
+	"Clasa_Nebun.h"
+	"Clasa_Cal.h"
+	"Clasa_Pion.h"
+	"Clasa_Tabla.h"
+
+1430317401 g:\teme laborator\poo\proiect ii\joc de sah\clasa_piesa.h
+	<cstring>
+	<iostream>
+
+1430375251 g:\teme laborator\poo\proiect ii\joc de sah\clasa_rege.h
+	<cstring>
+	<cmath>
+
+1429623916 g:\teme laborator\poo\proiect ii\joc de sah\clasa_regina.h
+	<cstring>
+
+1430317543 g:\teme laborator\poo\proiect ii\joc de sah\clasa_turn.h
+	<cstring>
+
+1429622590 g:\teme laborator\poo\proiect ii\joc de sah\clasa_nebun.h
+	<cmath>
+	<cstring>
+
+1429622601 g:\teme laborator\poo\proiect ii\joc de sah\clasa_cal.h
+	<cstring>
+	<cmath>
+
+1430555814 g:\teme laborator\poo\proiect ii\joc de sah\clasa_pion.h
+	<cmath>
+	<cstring>
+
+1430589976 g:\teme laborator\poo\proiect ii\joc de sah\clasa_tabla.h
+	<iostream>
+
